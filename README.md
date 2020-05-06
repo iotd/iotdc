@@ -1,6 +1,6 @@
-# Graver iris-cli application generate tools
+# Graver iris cli application generate tools
 
-Graver: 一款基于iris框架快速生成项目代码的脚手架应用工具。
+Graver: 一款基于Go语言的Iris框架快速生成项目代码的脚手架应用工具。
 
 A scaffolding application tool based on iris framework to quickly generate project code .
 

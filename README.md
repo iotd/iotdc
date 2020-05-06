@@ -1,4 +1,4 @@
-# TeaCup application generate tools
+# TeaCup cli: application generate tools
 
 TeaCup: 一款基于多语言特性的应用项目快速生成项目代码的脚手架应用工具。
 

@@ -6,5 +6,5 @@ A scaffolding application tool based on iris framework to quickly generate proje
 
 
 功能列表：
-[] 应用框架生成
-[] pkg生成 
+* 应用框架生成
+* pkg生成 
